@@ -16,7 +16,7 @@ Aplicação construída utilizando REACT JS, a aplicação consiste em um sistem
 - ### React JS
 - ### React Router Dom 
 - ### React icons 
-- ### React Toastfy
+- ### React Toastify
 - ### Axios
 - ### Firebase
 
