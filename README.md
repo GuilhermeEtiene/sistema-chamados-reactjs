@@ -22,5 +22,5 @@ https://sistem-calls.netlify.app/
 - ### React icons 
 - ### React Toastify
 - ### Axios
-- ### Firebase.
+- ### Firebase
 
